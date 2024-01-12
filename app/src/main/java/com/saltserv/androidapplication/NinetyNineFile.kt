@@ -7,7 +7,5 @@ class NinetyNineFile: Application() {
 
     override fun onCreate() {
         super.onCreate()
-
-        Log.d("TAG", "onCreate: this is a log")
     }
 }
